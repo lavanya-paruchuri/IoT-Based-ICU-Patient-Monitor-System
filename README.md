@@ -27,8 +27,9 @@ The IoT Based ICU Patient Monitoring System is designed to continuously monitor 
 - Temperature Sensor
 - LCD Display
 - WiFi Module
-- 
+  
 ## Software:
+
 - Raspbian OS
 - Python
 - Web Server (Flask or similar)
